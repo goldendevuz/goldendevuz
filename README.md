@@ -26,7 +26,7 @@
       <a href="https://github.com/goldendevuz"> <img src="https://komarev.com/ghpvc/?username=goldendevuz&style=for-the-badge&color=brightgreen"> </a>
 </td>
     <td>
-        <a href="https://wakatime.com/@goldendev" target="_blank"><img src="https://wakatime.com/badge/user/018ee72f-9aff-4b44-90e5-ee1dde2e106f.svg" /></a>
+        <a href="https://wakatime.com/@goldendev" target="_blank"><img src="https://wakatime.com/badge/user/410cf8b0-acc8-49a9-88b4-18eb06669ec2.svg" /></a>
 </td>
     </tr>
   </table>
