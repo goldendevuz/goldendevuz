@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in"></p>
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+My+name+is+Asadbek" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+My+name+is+Jasmina" alt="Typing SVG" />
   </a>
 </p>
 <p>
