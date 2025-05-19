@@ -7,7 +7,7 @@
 </p>
 <p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+Passionate+Software+Engineer" alt="Typing SVG" />
 </a>
 </p>
 
