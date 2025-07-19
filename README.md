@@ -1,7 +1,8 @@
 # 💫 About Me:
 I make and maintain high-performance web applications, sometimes telegram bots and projects of other directions using Python, SQL, Django and DRF. I have done several custom projects for various purposes, as well as implemented some of my own ideas that are still in progress. I enjoy solving complex problems and delivering quality solutions that meet the needs and expectations of the users.
+<p>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajid-yunusov) 
@@ -22,23 +23,23 @@ I make and maintain high-performance web applications, sometimes telegram bots a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goldendevuz&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
    <p align="center">
-          <a href="https://github.com/OlimjonKhudoyorov/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=OlimjonKhudoyorov&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=OlimjonKhudoyorov&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/goldendevuz/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=goldendevuz&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendevuz&theme=gruvbox&hide_border=true" />
           </a>
        </p>
 
 <p align="center">
-        <a href="https://github.com/OlimjonKhudoyorov/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlimjonKhudoyorov&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/goldendevuz/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldendevuz&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
 
  <p align="center">
-          <a href="https://github.com/OlimjonKhudoyorov/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlimjonKhudoyorov&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/goldendevuz/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goldendevuz&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlimjonKhudoyorov&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldendevuz&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
