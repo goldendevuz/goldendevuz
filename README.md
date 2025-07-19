@@ -6,12 +6,9 @@ I enjoy solving complex problems and delivering quality solutions that meet real
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="600" alt="Coding" />
 </p>
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmajid-yunusov)
-
----
 
 ## 💻 Tech Stack:
 
@@ -39,12 +36,8 @@ I enjoy solving complex problems and delivering quality solutions that meet real
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
-
 ## 🧠 LeetCode Practice
 [![LeetCode Stats](https://leetcard.jacoblin.cool/goldendevs?theme=dark&font=Noto%20Sans)](https://leetcode.com/goldendevs)
-
----
 
 ## 📊 GitHub Stats
 
@@ -69,21 +62,15 @@ I enjoy solving complex problems and delivering quality solutions that meet real
   </a>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=goldendevuz&theme=nord&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
-
 ### 🔝 Top Contributed Repos
 
 ![](https://github-contributor-stats.vercel.app/api?username=goldendevuz&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
----
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!" />
