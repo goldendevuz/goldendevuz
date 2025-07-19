@@ -3,8 +3,9 @@ I make and maintain high-performance web applications — sometimes Telegram bot
 I've delivered several custom solutions for different needs and built personal projects that are still in progress.  
 I enjoy solving complex problems and delivering quality solutions that meet real user expectations.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="600" alt="Coding" />
+</p>
 ---
 
 ## 🌐 Socials:
