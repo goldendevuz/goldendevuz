@@ -51,7 +51,6 @@ I enjoy solving complex problems and delivering quality solutions that meet real
 <p align="center">
   <a href="https://github.com/goldendevuz">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldendevuz&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendevuz&theme=nord&hide_border=true" />
   </a>
 </p>
 
