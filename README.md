@@ -67,10 +67,11 @@ Strong emphasis on clean architecture, reliability, and maintainability.
 
 ## Engineering Principles
 
-Clean code over clever tricks  
-Explicit logic over magic  
-Architecture before features  
-Backend is the backbone  
+Ship value, refine after  
+Deadlines drive decisions, not excuses  
+Build for the user, not for the resume  
+Working today beats perfect someday  
+Refactor when it hurts, not before  
 
 ## GitHub Activity
 
