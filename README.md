@@ -90,17 +90,30 @@ Backend-focused developer with hands-on experience building **REST APIs**, **Tel
 
 ---
 
-## 💼 Key Projects
+## 💼 Featured Projects
 
-### Open Source
-- **[django-quickstarts](https://github.com/goldendevuz/django-quickstarts)** — Cookbook of 40+ minimal Django package integration recipes
-- **[finesql](https://github.com/goldendevuz/finesql)** — Lightweight ORM for learning ORM internals, published on PyPI
-- **[fynor](https://github.com/goldendevuz/fynor)** — Backend API utility library on PyPI
+### 📚 Open Source & Libraries
+- **[django-quickstarts](https://github.com/goldendevuz/django-quickstarts)** — 40+ minimal Django integration recipes across 43 branches. Each branch shows exactly what changes for one package. CI verifies all recipes stay runnable.
+- **[finesql](https://github.com/goldendevuz/finesql)** — Educational ORM on sqlite3 to understand ORM internals. Published on PyPI with explicit, readable implementation (no magic).
+- **[fynor](https://github.com/goldendevuz/fynor)** — Backend API utility library. Published on PyPI.
+- **[botson](https://github.com/goldendevuz/botson)** — Framework to reduce repetitive backend patterns and boilerplate.
 
-### Featured Work
-- **Telegram Bots** — Built with Aiogram, integrated with Google Sheets and SMS APIs
-- **SMS API** — Async gateway with Celery, Redis rate-limiting, JWT auth, pytest coverage
-- **Medium Articles** — Publishing technical content on Django and DRF internals at [goldendev.medium.com](https://goldendev.medium.com)
+### 🚀 Production-Grade Backends
+- **SMS API** — Async gateway: Celery + Redis rate-limiting, exponential backoff retry, JWT auth, 80%+ pytest coverage. Handles provider failover, bursty traffic.
+- **AudioBook API** — REST backend (Django/DRF) for audiobook platform. JWT auth, nested resources, optimized queries, pagination.
+- **EduPess API** — Education platform backend with course management, user progress tracking, nested schemas.
+- **Madad IT Academy Bot** — Telegram bot (aiogram) integrated with Google Sheets API for course inquiries, SMS delivery via Contabo VPS. Docker + Nginx deployment.
+
+### 🤖 Telegram Bots & Real-Time
+- **[secondsaverbot](https://t.me/secondsaverbot)** — Co-founder. Async FSM, Redis state persistence, real-time updates, production deployment.
+- **Madad Course Bot** — Automated inquiry handler, real-time result delivery, Google Sheets sync.
+
+### ✍️ Content & Teaching
+- **[Medium Blog](https://goldendev.medium.com)** — Technical articles on Django internals, DRF best practices, Python async patterns, ORM design.
+
+### 🔄 In Progress (CodeAlpha Internship)
+- **Project Management Tool** — Trello-style full-stack app. Django/DRF backend with nested resources (projects → tasks → comments), role-based permissions, WebSocket real-time updates via Django Channels. Vanilla JS frontend.
+- **Social Networking Platform** — Mini Twitter clone. User profiles, posts, comments, follow system. Optimized feed queries (select_related + prefetch_related), pagination, follower graphs.
 
 ---
 
